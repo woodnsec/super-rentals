@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1cd841c1-7056-41bf-81f9-5b2fee90c220" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/routes/rentals.js" afterPath="$PROJECT_DIR$/app/routes/rentals.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/templates/rentals.hbs" afterPath="$PROJECT_DIR$/app/templates/rentals.hbs" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tests/acceptance/list-rentals-test.js" afterPath="$PROJECT_DIR$/tests/acceptance/list-rentals-test.js" />
-    </list>
+    <list default="true" id="1cd841c1-7056-41bf-81f9-5b2fee90c220" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -290,7 +285,14 @@
       <option name="project" value="LOCAL" />
       <updated>1508436213012</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Model hook complete">
+      <created>1508436539366</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1508436539366</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -328,7 +330,8 @@
     <MESSAGE value="Finished first section of ember tutorial." />
     <MESSAGE value="Acceptance test initialized" />
     <MESSAGE value="routes and templates created, acceptance tests generated." />
-    <option name="LAST_COMMIT_MESSAGE" value="routes and templates created, acceptance tests generated." />
+    <MESSAGE value="Model hook complete" />
+    <option name="LAST_COMMIT_MESSAGE" value="Model hook complete" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
