@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="1cd841c1-7056-41bf-81f9-5b2fee90c220" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/templates/rentals.hbs" afterPath="$PROJECT_DIR$/app/templates/rentals.hbs" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -51,9 +50,7 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="561">
               <caret line="36" column="0" lean-forward="true" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
-              <folding>
-                <marker date="1508450613299" expanded="true" signature="516:792" ph="{...}" />
-              </folding>
+              <folding />
             </state>
           </provider>
         </entry>
@@ -126,8 +123,8 @@
     <handled-path value="$PROJECT_DIR$/tmp/source_map_concat-input_base_path-1HOc9W0E.tmp/vendor/node_modules" />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="751" />
-    <option name="width" value="1176" />
+    <option name="x" value="953" />
+    <option name="width" value="974" />
     <option name="height" value="1057" />
   </component>
   <component name="ProjectView">
@@ -296,14 +293,21 @@
       <option name="project" value="LOCAL" />
       <updated>1508449512525</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="simple component section complete">
+      <created>1508450668024</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1508450668025</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="751" y="0" width="1176" height="1057" extended-state="0" />
+    <frame x="953" y="0" width="974" height="1057" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21982759" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26617953" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -336,7 +340,8 @@
     <MESSAGE value="routes and templates created, acceptance tests generated." />
     <MESSAGE value="Model hook complete" />
     <MESSAGE value="installing addons section complete" />
-    <option name="LAST_COMMIT_MESSAGE" value="installing addons section complete" />
+    <MESSAGE value="simple component section complete" />
+    <option name="LAST_COMMIT_MESSAGE" value="simple component section complete" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -527,9 +532,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="561">
           <caret line="36" column="0" lean-forward="true" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
-          <folding>
-            <marker date="1508450613299" expanded="true" signature="516:792" ph="{...}" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
