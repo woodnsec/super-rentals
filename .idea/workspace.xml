@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1cd841c1-7056-41bf-81f9-5b2fee90c220" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/controllers/rentals/index.js" afterPath="$PROJECT_DIR$/app/controllers/rentals/index.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/templates/rentals.hbs" afterPath="$PROJECT_DIR$/app/templates/rentals.hbs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/templates/rentals/index.hbs" afterPath="$PROJECT_DIR$/app/templates/rentals/index.hbs" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -13,33 +16,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="rentals.hbs" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/app/templates/rentals.hbs">
+      <file leaf-file-name="show.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/routes/rentals/show.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="17" column="10" lean-forward="true" selection-start-line="17" selection-start-column="10" selection-end-line="17" selection-end-column="10" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="maps.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/services/maps.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="7" lean-forward="false" selection-start-line="0" selection-start-column="7" selection-end-line="0" selection-end-column="7" />
-              <folding>
-                <element signature="e#0#37#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="rental-listing.hbs" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/templates/components/rental-listing.hbs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="73" lean-forward="false" selection-start-line="5" selection-start-column="73" selection-end-line="5" selection-end-column="73" />
+            <state relative-caret-position="119">
+              <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -48,71 +29,21 @@
       <file leaf-file-name="list-rentals-test.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/tests/acceptance/list-rentals-test.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="933">
-              <caret line="66" column="3" lean-forward="false" selection-start-line="66" selection-start-column="3" selection-end-line="66" selection-end-column="3" />
+            <state relative-caret-position="561">
+              <caret line="44" column="18" lean-forward="false" selection-start-line="44" selection-start-column="18" selection-end-line="44" selection-end-column="18" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/controllers/rentals/index.js">
+      <file leaf-file-name="maps.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/services/maps.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="rentals.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/controllers/rentals.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" column="13" lean-forward="false" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="router.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/router.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="7" lean-forward="false" selection-start-line="0" selection-start-column="7" selection-end-line="0" selection-end-column="7" />
+            <state relative-caret-position="578">
+              <caret line="34" column="0" lean-forward="true" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
               <folding>
-                <element signature="e#0#48#0" expanded="true" />
+                <element signature="e#0#37#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="show.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/routes/rentals/show.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="3" lean-forward="false" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="show.hbs" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/templates/rentals/show.hbs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="18" column="6" lean-forward="false" selection-start-line="18" selection-start-column="6" selection-end-line="18" selection-end-column="6" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="config.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mirage/config.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="862">
-              <caret line="61" column="1" lean-forward="false" selection-start-line="61" selection-start-column="1" selection-end-line="61" selection-end-column="1" />
-              <folding />
             </state>
           </provider>
         </entry>
@@ -140,14 +71,12 @@
         <option value="$PROJECT_DIR$/app/components/list-filter.js" />
         <option value="$PROJECT_DIR$/tests/integration/components/list-filter-test.js" />
         <option value="$PROJECT_DIR$/app/utils/google-maps.js" />
-        <option value="$PROJECT_DIR$/app/services/maps.js" />
         <option value="$PROJECT_DIR$/app/templates/components/location-map.hbs" />
         <option value="$PROJECT_DIR$/app/components/location-map.js" />
         <option value="$PROJECT_DIR$/tests/unit/services/maps-test.js" />
         <option value="$PROJECT_DIR$/tests/integration/components/location-map-test.js" />
         <option value="$PROJECT_DIR$/app/routes/rentals.js" />
         <option value="$PROJECT_DIR$/app/templates/index.hbs" />
-        <option value="$PROJECT_DIR$/app/controllers/rentals/index.js" />
         <option value="$PROJECT_DIR$/app/router.js" />
         <option value="$PROJECT_DIR$/app/routes/rentals/index.js" />
         <option value="$PROJECT_DIR$/mirage/config.js" />
@@ -156,6 +85,9 @@
         <option value="$PROJECT_DIR$/app/templates/components/rental-listing.hbs" />
         <option value="$PROJECT_DIR$/tests/acceptance/list-rentals-test.js" />
         <option value="$PROJECT_DIR$/app/templates/rentals.hbs" />
+        <option value="$PROJECT_DIR$/app/templates/rentals/index.hbs" />
+        <option value="$PROJECT_DIR$/app/controllers/rentals/index.js" />
+        <option value="$PROJECT_DIR$/app/services/maps.js" />
       </list>
     </option>
   </component>
@@ -167,30 +99,82 @@
   </component>
   <component name="NodeModulesDirectoryManager">
     <handled-path value="$PROJECT_DIR$/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/broccoli_merge_trees-input_base_path-0O3QqDlw.tmp/1/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/broccoli_merge_trees-input_base_path-31yYkpYd.tmp/0/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/broccoli_merge_trees-input_base_path-FAPtMf8o.tmp/1/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/broccoli_merge_trees-input_base_path-LMnTiQ7S.tmp/2/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/broccoli_merge_trees-input_base_path-MeTNPH0j.tmp/0/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/broccoli_merge_trees-input_base_path-OZgBk81V.tmp/0/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/broccoli_merge_trees-input_base_path-OjTLCi2A.tmp/0/vendor/node_modules" />
     <handled-path value="$PROJECT_DIR$/tmp/broccoli_merge_trees-input_base_path-R0ggC4ne.tmp/0/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/broccoli_merge_trees-input_base_path-R1aJQ2Nv.tmp/0/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/broccoli_merge_trees-input_base_path-ReyptcMC.tmp/0/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/broccoli_merge_trees-input_base_path-SLAPlVcl.tmp/0/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/broccoli_merge_trees-input_base_path-WHCSZafK.tmp/2/node_modules" />
     <handled-path value="$PROJECT_DIR$/tmp/broccoli_merge_trees-input_base_path-dByuZLFa.tmp/0/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/broccoli_merge_trees-input_base_path-hGUIJ0AA.tmp/2/node_modules" />
     <handled-path value="$PROJECT_DIR$/tmp/broccoli_merge_trees-input_base_path-kOoHEpos.tmp/2/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/broccoli_merge_trees-input_base_path-rQMUIKQS.tmp/2/node_modules" />
     <handled-path value="$PROJECT_DIR$/tmp/broccoli_merge_trees-input_base_path-u4tVroLJ.tmp/0/vendor/node_modules" />
     <handled-path value="$PROJECT_DIR$/tmp/broccoli_merge_trees-input_base_path-w9OguMwP.tmp/0/vendor/node_modules" />
     <handled-path value="$PROJECT_DIR$/tmp/broccoli_merge_trees-input_base_path-xJqiGM2c.tmp/2/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/broccoli_merge_trees-input_base_path-zs0SKGqc.tmp/0/vendor/node_modules" />
     <handled-path value="$PROJECT_DIR$/tmp/broccoli_merge_trees-input_base_path-zvFSGYKI.tmp/1/vendor/node_modules" />
     <handled-path value="$PROJECT_DIR$/tmp/broccoli_merge_trees-output_path-3uFtKuuE.tmp/vendor/node_modules" />
     <handled-path value="$PROJECT_DIR$/tmp/broccoli_merge_trees-output_path-40K8F9Ba.tmp/vendor/node_modules" />
     <handled-path value="$PROJECT_DIR$/tmp/broccoli_merge_trees-output_path-6cLItyip.tmp/vendor/node_modules" />
     <handled-path value="$PROJECT_DIR$/tmp/broccoli_merge_trees-output_path-FYExnJLp.tmp/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/broccoli_merge_trees-output_path-J95MWbW5.tmp/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/broccoli_merge_trees-output_path-ONDjK4yj.tmp/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/broccoli_merge_trees-output_path-P2CdquzC.tmp/vendor/node_modules" />
     <handled-path value="$PROJECT_DIR$/tmp/broccoli_merge_trees-output_path-SGGHG4fh.tmp/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/broccoli_merge_trees-output_path-TMTMLZQo.tmp/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/broccoli_merge_trees-output_path-VkIwRvcl.tmp/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/broccoli_merge_trees-output_path-Z9VITcOe.tmp/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/broccoli_merge_trees-output_path-dsXcgYXx.tmp/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/broccoli_merge_trees-output_path-fZqFCwaL.tmp/node_modules" />
     <handled-path value="$PROJECT_DIR$/tmp/broccoli_merge_trees-output_path-gfuR8tco.tmp/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/broccoli_merge_trees-output_path-hbDWUo5z.tmp/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/broccoli_merge_trees-output_path-jV1po5Bt.tmp/node_modules" />
     <handled-path value="$PROJECT_DIR$/tmp/broccoli_merge_trees-output_path-juK9ghtA.tmp/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/broccoli_merge_trees-output_path-r6GMlcW9.tmp/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/broccoli_merge_trees-output_path-sOOlSgHu.tmp/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/broccoli_merge_trees-output_path-tTozf0X6.tmp/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/broccoli_merge_trees-output_path-yTtMJtxu.tmp/vendor/node_modules" />
     <handled-path value="$PROJECT_DIR$/tmp/funnel-input_base_path-B7xRaTcc.tmp/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/funnel-input_base_path-Camstbw3.tmp/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/funnel-input_base_path-Cf4hsG9X.tmp/vendor/node_modules" />
     <handled-path value="$PROJECT_DIR$/tmp/funnel-input_base_path-DAFtWwwk.tmp/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/funnel-input_base_path-GSczvKxQ.tmp/vendor/node_modules" />
     <handled-path value="$PROJECT_DIR$/tmp/funnel-input_base_path-JeCCwFqt.tmp/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/funnel-input_base_path-JwZiuTrq.tmp/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/funnel-input_base_path-VJrpwmXy.tmp/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/funnel-input_base_path-XqiiAhFB.tmp/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/funnel-input_base_path-acrxEzKV.tmp/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/funnel-input_base_path-gvpOksSB.tmp/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/funnel-input_base_path-h2DYG6u8.tmp/vendor/node_modules" />
     <handled-path value="$PROJECT_DIR$/tmp/funnel-input_base_path-pvREFfP1.tmp/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/funnel-input_base_path-y0OqhZx4.tmp/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/funnel-output_path-77dOwUzc.tmp/vendor/node_modules" />
     <handled-path value="$PROJECT_DIR$/tmp/funnel-output_path-FSq33GO7.tmp/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/funnel-output_path-neomYRfk.tmp/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/rollup-cache_path-AwuvYdJG.tmp/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/rollup-cache_path-MwO12wAq.tmp/node_modules" />
     <handled-path value="$PROJECT_DIR$/tmp/rollup-cache_path-kUZBnKSa.tmp/node_modules" />
     <handled-path value="$PROJECT_DIR$/tmp/simple_concat_concat-input_base_path-1qB9SYKl.tmp/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/simple_concat_concat-input_base_path-4tLBgGJZ.tmp/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/simple_concat_concat-input_base_path-RxGSk6q2.tmp/vendor/node_modules" />
     <handled-path value="$PROJECT_DIR$/tmp/simple_concat_concat-input_base_path-oABC8yrm.tmp/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/simple_concat_concat-input_base_path-uuNBce3f.tmp/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/simple_concat_concat-input_base_path-vsQQeAiR.tmp/vendor/node_modules" />
     <handled-path value="$PROJECT_DIR$/tmp/source_map_concat-input_base_path-0I0Zw1y1.tmp/vendor/node_modules" />
     <handled-path value="$PROJECT_DIR$/tmp/source_map_concat-input_base_path-1HOc9W0E.tmp/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/source_map_concat-input_base_path-5UjPQ8Oo.tmp/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/source_map_concat-input_base_path-5o8L872K.tmp/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/source_map_concat-input_base_path-J55uadta.tmp/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/source_map_concat-input_base_path-cMcX1ajM.tmp/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/source_map_concat-input_base_path-nTNMCAJM.tmp/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/source_map_concat-input_base_path-uUhiix7G.tmp/vendor/node_modules" />
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="953" />
@@ -212,6 +196,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -228,64 +213,7 @@
               <item name="super-rentals" type="b2602c69:ProjectViewProjectNode" />
               <item name="super-rentals" type="462c0819:PsiDirectoryNode" />
               <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="components" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="super-rentals" type="b2602c69:ProjectViewProjectNode" />
-              <item name="super-rentals" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="controllers" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="super-rentals" type="b2602c69:ProjectViewProjectNode" />
-              <item name="super-rentals" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="controllers" type="462c0819:PsiDirectoryNode" />
-              <item name="rentals" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="super-rentals" type="b2602c69:ProjectViewProjectNode" />
-              <item name="super-rentals" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="routes" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="super-rentals" type="b2602c69:ProjectViewProjectNode" />
-              <item name="super-rentals" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="routes" type="462c0819:PsiDirectoryNode" />
-              <item name="rentals" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="super-rentals" type="b2602c69:ProjectViewProjectNode" />
-              <item name="super-rentals" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
               <item name="services" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="super-rentals" type="b2602c69:ProjectViewProjectNode" />
-              <item name="super-rentals" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="templates" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="super-rentals" type="b2602c69:ProjectViewProjectNode" />
-              <item name="super-rentals" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="templates" type="462c0819:PsiDirectoryNode" />
-              <item name="components" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="super-rentals" type="b2602c69:ProjectViewProjectNode" />
-              <item name="super-rentals" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="templates" type="462c0819:PsiDirectoryNode" />
-              <item name="rentals" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="super-rentals" type="b2602c69:ProjectViewProjectNode" />
-              <item name="super-rentals" type="462c0819:PsiDirectoryNode" />
-              <item name="mirage" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="super-rentals" type="b2602c69:ProjectViewProjectNode" />
@@ -298,43 +226,11 @@
               <item name="tests" type="462c0819:PsiDirectoryNode" />
               <item name="acceptance" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="super-rentals" type="b2602c69:ProjectViewProjectNode" />
-              <item name="super-rentals" type="462c0819:PsiDirectoryNode" />
-              <item name="tests" type="462c0819:PsiDirectoryNode" />
-              <item name="integration" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="super-rentals" type="b2602c69:ProjectViewProjectNode" />
-              <item name="super-rentals" type="462c0819:PsiDirectoryNode" />
-              <item name="tests" type="462c0819:PsiDirectoryNode" />
-              <item name="integration" type="462c0819:PsiDirectoryNode" />
-              <item name="components" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="super-rentals" type="b2602c69:ProjectViewProjectNode" />
-              <item name="super-rentals" type="462c0819:PsiDirectoryNode" />
-              <item name="tests" type="462c0819:PsiDirectoryNode" />
-              <item name="unit" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="super-rentals" type="b2602c69:ProjectViewProjectNode" />
-              <item name="super-rentals" type="462c0819:PsiDirectoryNode" />
-              <item name="tests" type="462c0819:PsiDirectoryNode" />
-              <item name="unit" type="462c0819:PsiDirectoryNode" />
-              <item name="services" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="super-rentals" type="b2602c69:ProjectViewProjectNode" />
-              <item name="super-rentals" type="462c0819:PsiDirectoryNode" />
-              <item name="vendor" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="Scratches" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -460,17 +356,11 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/app/models/rental.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="3" lean-forward="false" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/routes/rentals.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
           <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -486,7 +376,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -545,6 +434,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
           <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -725,18 +615,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/routes/rentals.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="29" lean-forward="false" selection-start-line="2" selection-start-column="29" selection-end-line="2" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/routes/index.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
           <caret line="5" column="3" lean-forward="false" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -744,7 +626,27 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
           <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/templates/components/rental-listing.hbs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="73" lean-forward="false" selection-start-line="5" selection-start-column="73" selection-end-line="5" selection-end-column="73" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/controllers/rentals.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="13" lean-forward="false" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/templates/rentals/show.hbs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="6" lean-forward="false" selection-start-line="18" selection-start-column="6" selection-end-line="18" selection-end-column="6" />
         </state>
       </provider>
     </entry>
@@ -756,10 +658,42 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/app/routes/rentals.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="28" lean-forward="true" selection-start-line="2" selection-start-column="28" selection-end-line="2" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/templates/rentals/index.hbs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/templates/rentals.hbs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/controllers/rentals/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="33" lean-forward="false" selection-start-line="2" selection-start-column="33" selection-end-line="2" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/mirage/config.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="862">
-          <caret line="61" column="1" lean-forward="false" selection-start-line="61" selection-start-column="1" selection-end-line="61" selection-end-column="1" />
+        <state relative-caret-position="117">
+          <caret line="23" column="24" lean-forward="false" selection-start-line="23" selection-start-column="24" selection-end-line="23" selection-end-column="24" />
           <folding />
         </state>
       </provider>
@@ -768,75 +702,33 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="7" lean-forward="false" selection-start-line="0" selection-start-column="7" selection-end-line="0" selection-end-column="7" />
-          <folding>
-            <element signature="e#0#48#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/routes/rentals/show.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="3" lean-forward="false" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/templates/rentals/show.hbs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="6" lean-forward="false" selection-start-line="18" selection-start-column="6" selection-end-line="18" selection-end-column="6" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/services/maps.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="7" lean-forward="false" selection-start-line="0" selection-start-column="7" selection-end-line="0" selection-end-column="7" />
-          <folding>
-            <element signature="e#0#37#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/templates/components/rental-listing.hbs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="73" lean-forward="false" selection-start-line="5" selection-start-column="73" selection-end-line="5" selection-end-column="73" />
+        <state relative-caret-position="119">
+          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/tests/acceptance/list-rentals-test.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="933">
-          <caret line="66" column="3" lean-forward="false" selection-start-line="66" selection-start-column="3" selection-end-line="66" selection-end-column="3" />
+        <state relative-caret-position="561">
+          <caret line="44" column="18" lean-forward="false" selection-start-line="44" selection-start-column="18" selection-end-line="44" selection-end-column="18" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/controllers/rentals/index.js">
+    <entry file="file://$PROJECT_DIR$/app/services/maps.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/controllers/rentals.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="13" lean-forward="false" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/templates/rentals.hbs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="10" lean-forward="true" selection-start-line="17" selection-start-column="10" selection-end-line="17" selection-end-column="10" />
-          <folding />
+        <state relative-caret-position="578">
+          <caret line="34" column="0" lean-forward="true" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#37#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
